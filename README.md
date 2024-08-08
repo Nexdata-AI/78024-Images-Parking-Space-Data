@@ -4,7 +4,7 @@
 ## Description
 78,024 Images-Parking Space Data. The data diversity includes multiple collecting angles, multiple light conditions and scenes. The data can be used for parking space detection task
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1158?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1158?source=Github
 
 
 # Specifications
